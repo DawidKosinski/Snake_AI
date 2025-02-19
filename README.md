@@ -1,7 +1,5 @@
 # Artificial Intelligence for Classic Snake Game
 
-## Author
-Dawid Kosiński
 
 ## Introduction
 This project focuses on developing a reinforcement learning-based artificial intelligence (AI) for the classic Snake game. The AI is trained using Deep Q-Learning (DQL) to play Snake autonomously. The objective is to create an AI that learns from its environment and improves its performance over time. This project explores the integration of reinforcement learning with game development and addresses the challenges involved.
